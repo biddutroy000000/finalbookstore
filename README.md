@@ -8,7 +8,7 @@ This project is a web-based Bookstore application built with Laravel (PHP framew
 
 <div align="center">
   
-[![Book Store Laravel Demo](ss_link)](youtube_link)
+[![Book Store Laravel Demo](ss_link)](https://youtu.be/SDcvfcYnh7s)
 
 </div>
 
